@@ -15,3 +15,5 @@ elif expression == "*";
 elif expression == "/";
  answer = first_number / second_number
  print(sus + answer)
+else;
+ print("sus")
